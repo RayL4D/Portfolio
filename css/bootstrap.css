@@ -470,6 +470,10 @@ mark,
   content: "\2014\00A0";
 }
 
+.img-place img {
+  min-height: 250px; /* Ajustez la valeur selon vos besoins */
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
